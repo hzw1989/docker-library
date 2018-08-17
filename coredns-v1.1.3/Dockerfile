@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns:1.1.3__amd64_linux
+FROM gcr.io/google_containers/coredns:1.1.3
 MAINTAINER fdj <fdj_hzw@163.com>
